@@ -1,0 +1,34 @@
+img.mainimg {
+  width: 100%;
+}
+
+body {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+p.instructions{
+  font-family: sans-serif;
+  font-style: normal;
+  fron
+}
+table{
+  background-image: url("assets/list-bg.png");
+font-size: 20px;
+width: 90%;
+font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  color: saddlebrown;
+  padding-top: 33px;
+  padding-bottom: 50px;
+
+
+}
+td{
+  padding-left: 70px;
+vertical-align: top;
+
+}
+#bad-fix{
+  padding-right: 40px;
+}
