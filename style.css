@@ -2,9 +2,11 @@ img.mainimg {
   width: 100%;
 }
 h2 {
-  font-family: cursive;
   margin: 0;
   margin-left: 16px;
+  font-family: 'Yellowtail';
+  font-style: normal;
+  font-weight: 400;
 }
 h5 {
   float:left;
@@ -17,8 +19,7 @@ body {
   margin-right: 15%;
 }
 p.instructions{
-  font-family: sans-serif;
-  font-style: normal;
+  font-family: serif;
 }
 .logo-main{
   float: left;
@@ -27,7 +28,7 @@ table{
   background-image: url("assets/list-bg.png");
   font-size: 20px;
   width: 90%;
-  font-family: 'Open Sans';
+  font-family: 'Patrick Hand';
   font-style: normal;
   font-weight: 400;
   color: saddlebrown;
@@ -44,16 +45,18 @@ td{
 header{
   border-bottom-width: initial;
   border-bottom-style: dashed;
-  padding-bottom: 45px
+  padding-bottom: 45px;
 }
 h1 {
   margin-bottom: 0;
-  font-family: helvetica;
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
 }
 h4 {
   margin-top: 0;
   font-family: monospace;
-  color: #777
+  color: #777;
 }
 .soc-media {
   float: right;
@@ -85,10 +88,25 @@ h3 {
 }
 .auth-descrip{
   width = 75%;
+  padding-bottom: 75px;
 }
 .share-button{
   float:right;
   padding: 20px 40px;
   background-color: brown;
   color: white;
+}
+.logobottom {
+  position: absolute;
+  top:1536px;
+  left: 48%;
+  padding: 5px;
+}
+h6 {
+  text-align: center;
+  width: 100%;
+  border-top-style: solid;
+  padding-top: 25px;
+  color: #999;
+  border-color: #999;
 }
