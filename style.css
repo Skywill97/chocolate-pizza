@@ -91,10 +91,14 @@ h3 {
   padding-bottom: 75px;
 }
 .share-button {
+  border-radius: 25px;
   float:right;
   padding: 20px 40px;
   background-color: brown;
   color: white;
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
 }
 .logobottom {
   position: absolute;
