@@ -18,13 +18,13 @@ body {
   margin-left: 15%;
   margin-right: 15%;
 }
-p.instructions{
+p.instructions {
   font-family: serif;
 }
-.logo-main{
+.logo-main {
   float: left;
 }
-table{
+table {
   background-image: url("assets/list-bg.png");
   font-size: 20px;
   width: 90%;
@@ -35,14 +35,14 @@ table{
   padding-top: 33px;
   padding-bottom: 50px;
 }
-td{
+td {
   padding-left: 70px;
   vertical-align: top;
 }
-#bad-fix{
+#bad-fix {
   padding-right: 40px;
 }
-header{
+header {
   border-bottom-width: initial;
   border-bottom-style: dashed;
   padding-bottom: 45px;
@@ -62,13 +62,13 @@ h4 {
   float: right;
   padding: 1px;
 }
-#icon-sep{
+#icon-sep {
   padding-left: 12px;
 }
 .struck {
   text-decoration: line-through;
 }
-.print-button{
+.print-button {
   font-family: monospace;
   color: #888;
   float: right;
@@ -86,11 +86,11 @@ h3 {
   font-weight:1000;
   font-family: serif;
 }
-.auth-descrip{
+.auth-descrip {
   width = 75%;
   padding-bottom: 75px;
 }
-.share-button{
+.share-button {
   float:right;
   padding: 20px 40px;
   background-color: brown;
